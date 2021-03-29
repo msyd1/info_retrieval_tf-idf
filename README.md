@@ -7,6 +7,9 @@ This script:
 - counts term frequency, document frequency and term frequency–inverse document frequency (tf–idf) that reflect how important a word is for a document in the corpus. 
 - creates a SQL database file with a dictionary with unique tokens
 
+<img src="https://github.com/msyd1/info_retrieval_tf-idf/tree/main/img/term_dictionary_table.png" width=40% height=40%>
+<img src="https://github.com/msyd1/info_retrieval_tf-idf/tree/main/img/tfidf_table.png" width=40% height=40%>
+
 ### Installations
 To clone this repository:
 ```
